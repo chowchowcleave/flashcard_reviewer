@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261507685114",
+    "project_id": "flashreview-26d02",
+    "storage_bucket": "flashreview-26d02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261507685114:android:3a60fbe782e06e908ac743",
+        "android_client_info": {
+          "package_name": "com.example.flash_rebuild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuCpDKICqCl4xYcq2aTrAJd_3bYImHxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
